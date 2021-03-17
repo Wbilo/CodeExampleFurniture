@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CodeExampleFurniture\bin\Debug\netcoreapp2.1\CodeExampleFurniture.deps.json
+C:\Users\Administrator\source\repos\CodeExampleFurniture\bin\Debug\netcoreapp2.1\CodeExampleFurniture.runtimeconfig.json
+C:\Users\Administrator\source\repos\CodeExampleFurniture\bin\Debug\netcoreapp2.1\CodeExampleFurniture.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CodeExampleFurniture\bin\Debug\netcoreapp2.1\CodeExampleFurniture.dll
+C:\Users\Administrator\source\repos\CodeExampleFurniture\bin\Debug\netcoreapp2.1\CodeExampleFurniture.pdb
+C:\Users\Administrator\source\repos\CodeExampleFurniture\obj\Debug\netcoreapp2.1\CodeExampleFurniture.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CodeExampleFurniture\obj\Debug\netcoreapp2.1\CodeExampleFurniture.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CodeExampleFurniture\obj\Debug\netcoreapp2.1\CodeExampleFurniture.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CodeExampleFurniture\obj\Debug\netcoreapp2.1\CodeExampleFurniture.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CodeExampleFurniture\obj\Debug\netcoreapp2.1\CodeExampleFurniture.dll
+C:\Users\Administrator\source\repos\CodeExampleFurniture\obj\Debug\netcoreapp2.1\CodeExampleFurniture.pdb
