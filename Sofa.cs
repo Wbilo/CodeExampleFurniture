@@ -16,7 +16,7 @@ namespace CodeExampleFurniture
 
 
 
-        public Sofa(int sitCounter = 0, int seatSpaceCount = 1) : base()
+        public Sofa(int sitCounter = 0, int seatSpaceCount = 1, int weight = 0, int price = 0) : base(weight, price)
         {
             SitCounter = sitCounter;
             SeatSpaceCount = seatSpaceCount;

@@ -14,11 +14,12 @@ namespace CodeExampleFurniture
         public int LegCount { get; private set; }
 
         // Constructors 
-        public Chair(int sitCounter = 0, int legCount = 1) : base()
+        public Chair(int sitCounter = 0, int legCount = 1, int weight = 0, int price = 0) : base(weight, price)
         {
             SitCounter = sitCounter;
             LegCount = legCount;
         }
+
 
 
 
